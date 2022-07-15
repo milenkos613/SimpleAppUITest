@@ -1,10 +1,12 @@
-# Enigma Application
+l# Enigma Application
 
 ## Introduction
 
 You have been assigned to a cryptographic project called Enigma. The goal is to create an app that has custom encryption and decryption abilities. The keys are supplied to you for the whole week, from Monday till Sunday. Depending on the day of the week, the app is running on the keys required for loading the appropriate ciphering keys from the corresponding files. For example, if it is a Tuesday the app should load the Tuesday.txt keys and load them into the crypto dictionary. You will be required to create the encrypting and decrypting functions that should return a String with either the encrypted or the decrypted message. The space between the words should be encrypted using the '-' key from the encryption keys.
 
 ## Task definition
+
+Test
 
 Note : Please do NOT modify any tests unless specifically told to do so.
 Note : Please do NOT modify the function declarations and return types. 
